@@ -15,6 +15,7 @@ li{
     height: auto;
     width: 136px;
     float: left;
+    margin-left: 50%;
 
     text-align: center; 
     list-style: none;  
@@ -81,5 +82,42 @@ body{
 
 #name{
     text-align: center;
-    text-height: 500px;
+    font-size: 250%;
+    font-family: 'Roboto Condensed', sans-serif;
+    margin-top: 20px;
+    margin-bottom: 0px;
 }
+
+#pp{
+    height: 30%;
+    margin-top: 10%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20%;
+
+}
+
+#desc{
+    text-align: center;
+    font-size: 100%;
+    font-family: 'Roboto Condensed', sans-serif;
+    margin-top: 2px;
+}
+
+
+
+#discord{
+    height: 8%;
+    display: block;
+    margin: auto;
+}
+
+#github{
+    height: 8%;
+    display: block;
+    margin: auto;
+
+}
+
+
