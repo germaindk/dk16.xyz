@@ -39,7 +39,7 @@ li{
         color: white; 
         display: block;
         
-        }
+}
 
 .nav:hover{
     background-color: #343a40;
@@ -82,7 +82,6 @@ body{
 #name{
     text-align: center;
     font-size: 250%;
-    )
     margin-top: 20px;
     margin-bottom: 0px;
 }
